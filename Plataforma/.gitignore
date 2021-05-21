@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Liberty.AgentPortal.Domain/bin
+/Liberty.AgentPortal.Domain/obj
+/Liberty.AgentPortal.Infrastructure/bin
+/Liberty.AgentPortal.Infrastructure/obj
+/Liberty.AgentPortal.Toggles/bin
+/Liberty.AgentPortal.Toggles/obj
+/Liberty.AgentPortal.WebAPI/bin
+/Liberty.AgentPortal.WebAPI/obj
+/packages
+/.vs
+/Liberty.AgentPortal.UnitTest/bin
+/Liberty.AgentPortal.UnitTest/obj
+/Liberty.AgentPortal.Api/.config/dotnet-tools.json
+/Liberty.AgentPortal.Api/Properties/PublishProfiles/FolderProfile.pubxml
+/Liberty.AgentPortal.Api/Properties/PublishProfiles/FolderProfile.pubxml.user

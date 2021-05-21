@@ -1,0 +1,15 @@
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Infra\bin\Debug\netcoreapp3.1\Plataforma.Infra.deps.json
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Infra\bin\Debug\netcoreapp3.1\Plataforma.Infra.dll
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Infra\bin\Debug\netcoreapp3.1\Plataforma.Infra.pdb
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Infra\obj\Debug\netcoreapp3.1\Plataforma.Infra.csprojAssemblyReference.cache
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Infra\obj\Debug\netcoreapp3.1\Plataforma.Infra.AssemblyInfoInputs.cache
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Infra\obj\Debug\netcoreapp3.1\Plataforma.Infra.AssemblyInfo.cs
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Infra\obj\Debug\netcoreapp3.1\Plataforma.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Infra\obj\Debug\netcoreapp3.1\Plataforma.Infra.dll
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Infra\obj\Debug\netcoreapp3.1\Plataforma.Infra.pdb
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Infra\bin\Debug\netcoreapp3.1\Plataforma.Infra.runtimeconfig.json
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Infra\bin\Debug\netcoreapp3.1\Plataforma.Infra.runtimeconfig.dev.json
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Infra\obj\Debug\netcoreapp3.1\Plataforma.Infra.genruntimeconfig.cache
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Infra\bin\Debug\netcoreapp3.1\Plataforma.Domain.dll
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Infra\bin\Debug\netcoreapp3.1\Plataforma.Domain.pdb
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Infra\obj\Debug\netcoreapp3.1\Plataforma.Infra.csproj.CopyComplete

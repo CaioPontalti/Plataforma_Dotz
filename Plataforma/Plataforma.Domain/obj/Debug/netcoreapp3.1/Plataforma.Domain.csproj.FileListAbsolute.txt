@@ -1,0 +1,9 @@
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Domain\bin\Debug\netcoreapp3.1\Plataforma.Domain.deps.json
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Domain\bin\Debug\netcoreapp3.1\Plataforma.Domain.dll
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Domain\bin\Debug\netcoreapp3.1\Plataforma.Domain.pdb
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Domain\obj\Debug\netcoreapp3.1\Plataforma.Domain.csprojAssemblyReference.cache
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Domain\obj\Debug\netcoreapp3.1\Plataforma.Domain.AssemblyInfoInputs.cache
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Domain\obj\Debug\netcoreapp3.1\Plataforma.Domain.AssemblyInfo.cs
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Domain\obj\Debug\netcoreapp3.1\Plataforma.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Domain\obj\Debug\netcoreapp3.1\Plataforma.Domain.dll
+C:\Users\Caiovale\source\repos\Plataforma\Plataforma.Domain\obj\Debug\netcoreapp3.1\Plataforma.Domain.pdb
